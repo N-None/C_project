@@ -1,0 +1,10 @@
+1   	  rice 	  20   	 100
+3   	  noodle 	  10   	 50
+4   	  vineger 	  40   	 100
+5   	  shampoo 	  20   	 200
+6   	  soap 	  30   	 70
+7   	  lays 	  50   	 30
+8   	  juice 	  40   	 80
+788jg   	  dsjfgkhgj 	  45   	 67
+
+22 	 efs 	  34 	 4

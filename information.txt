@@ -1,0 +1,4 @@
+password = admin
+f1 is for store file add administration
+fc is for customer file
+fd is duplicate file
